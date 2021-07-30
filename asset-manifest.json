@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/F22-Labs/static/css/main.a617e044.chunk.css",
+    "main.js": "/F22-Labs/static/js/main.79fc6285.chunk.js",
+    "main.js.map": "/F22-Labs/static/js/main.79fc6285.chunk.js.map",
+    "runtime-main.js": "/F22-Labs/static/js/runtime-main.1c2fd46c.js",
+    "runtime-main.js.map": "/F22-Labs/static/js/runtime-main.1c2fd46c.js.map",
+    "static/js/2.b19a94f3.chunk.js": "/F22-Labs/static/js/2.b19a94f3.chunk.js",
+    "static/js/2.b19a94f3.chunk.js.map": "/F22-Labs/static/js/2.b19a94f3.chunk.js.map",
+    "static/js/3.79a2c1b0.chunk.js": "/F22-Labs/static/js/3.79a2c1b0.chunk.js",
+    "static/js/3.79a2c1b0.chunk.js.map": "/F22-Labs/static/js/3.79a2c1b0.chunk.js.map",
+    "index.html": "/F22-Labs/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/F22-Labs/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b19a94f3.chunk.js.LICENSE.txt": "/F22-Labs/static/js/2.b19a94f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2fd46c.js",
+    "static/js/2.b19a94f3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.79fc6285.chunk.js"
+  ]
+}
